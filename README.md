@@ -1,5 +1,6 @@
 # Rummikub
-Compute Rummikub's available combinations.
+Compute Rummikub's available combinations.  
+I didn't think about JOKER.
 
 ## INPUT
 There should be total 52 numbers in 13x4 form.
