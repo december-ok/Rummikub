@@ -14,6 +14,9 @@ There should be total 52 numbers in 13x4 form.
 Each row means color, and each col means number.  
 Row 0 means certain color. For example, I think row 0 is Black, 1 is Red, 2 is Yellow, 3 is Black.  
 Col 0 means number 1. Then, for example, col 11 means number 12.  
+  
+Each cell's number means how many card exists.
+2 means there are two cards whose color and number is same.
 
 ## OUTPUT
 Output will be printed in each case's combination.
